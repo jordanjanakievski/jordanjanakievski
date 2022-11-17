@@ -6,7 +6,7 @@
 
 📌 Building software to help others has been a core aspect of my development journey
 
-📫 I can be found at [jordanjanakievski.github.io](jordanjanakievski.github.io)
+📫 I can be found at [https://jordanjanakievski.github.io](jordanjanakievski.github.io)
 
 
 <!---
