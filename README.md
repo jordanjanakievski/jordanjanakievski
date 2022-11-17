@@ -4,6 +4,8 @@
 
 ⌨️ I enjoy full-stack web development and finding new ways machine learning can be implemented into my workflow
 
+📌 Building software to help others has been a core aspect of my development journey
+
 📫 I can be found at [jordanjanakievski.github.io](jordanjanakievski.github.io)
 
 
