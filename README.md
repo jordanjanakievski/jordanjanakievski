@@ -1,8 +1,8 @@
 👋 Hi, my name is Jordan Janakievski
 
-🎓 I am a second-year computer science student at the University of Toronto
+🎓 I am a third-year computer science student at the University of Toronto
 
-⌨️ I enjoy full-stack web development and finding new ways artificial intelligence can be implemented into my workflow
+⌨️ I enjoy all things development and finding new ways artificial intelligence can be implemented into my workflow
 
 📌 Building software for social good has been a core aspect of my development journey
 
