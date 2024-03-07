@@ -1,6 +1,13 @@
 ## 🎟️ About Me:
 👋 Hi, my name is Jordan Janakievski<br>🎓 I am a third-year computer science student at the University of Toronto<br>✈️ I split my time between Seattle and Toronto<br>⌨️ I enjoy building high-impact applications for social good<br>📫 You can learn more about me at [jordanjanakievski.github.io](https://jordanjanakievski.github.io) 
 
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordanjanakievski&theme=ayu-mirage&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&rank_icon=github" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjanakievski&theme=ayu-mirage&hide_border=true&&hide=assembly&include_all_commits=true&count_private=true&layout=donut" height="150" alt="languages graph"  />
+</div>
+
 ## 💻 Favorite Languages and Technologies:
 ### Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,11 +37,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jordanjanakievski&theme=ayu-mirage&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjanakievski&theme=ayu-mirage&hide_border=true&&hide=assembly&include_all_commits=true&count_private=true&layout=donut)
 
 <!---
 jordanjanakievski/jordanjanakievski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
