@@ -38,6 +38,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/jordanjanakievski/jordanjanakievski/output/snake.svg" alt="Snake animation" />
+
 <!---
 jordanjanakievski/jordanjanakievski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
